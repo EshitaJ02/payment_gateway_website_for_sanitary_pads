@@ -7,7 +7,7 @@
     list-style: none;
 }
 
-/* ########################### html element styling ################## */
+/*  html element styling */
 html{
     font-size: 62.5%;
     background-color: black;
@@ -27,7 +27,7 @@ h1,h2,h3{
     font-weight: 500;
 }
 
-/* ################################### utility classes######################### */
+/*  utility classes */
 
 .container{
     max-width: 1200px;
@@ -52,12 +52,6 @@ h1,h2,h3{
     margin-left: 3rem;
     font-weight: bold;
 }
-
-
-.text-green{
-    color: #168083;
-}
-
 .text-white{
     color: white;
 }
@@ -82,7 +76,7 @@ h1,h2,h3{
 }
 
 
-/* ##################################### header styling ################################## */
+/* header  */
 .header{
     
     height: 90vh;
@@ -121,7 +115,7 @@ h1,h2,h3{
     z-index: 10;
 }
 
-/* ############################### main heading styling ########################################## */
+/*  main heading */
 
 .MAIN_HEADING{
     display: flex;
@@ -165,7 +159,7 @@ h1,h2,h3{
     margin-top:1rem ;
 }
 
-/* ############################################################# about styling ######################## */
+/*  about us */
 #about{
     margin-top: 4rem;
     padding: 2rem;
@@ -205,7 +199,7 @@ h1,h2,h3{
 }
 
 
-/* ################################################# goals styling ################################### */
+/* our believes */
 .about{
     margin-top: 7rem;
     text-align: center;
@@ -229,7 +223,7 @@ h1,h2,h3{
     height:100px; 
     background-color:darkcyan;
 }
-/* ########################### contact styling ############################# */
+/* contact us */
 #contact{
     margin-top: 3rem;
     padding: 5rem 0;
@@ -292,7 +286,7 @@ h1,h2,h3{
     background-color:rgb(75, 4, 4);
 } 
 
-/* #################################### footer styling #################################### */
+/* footer */
 footer
 {
     text-align: left;
@@ -374,7 +368,7 @@ footer .f1 .btn:hover
 }
 
 
-/* ##################################### media queries ######################################### */
+/*  media queries  */
 @media (max-width:1125px){
     .about .container{
         flex-direction: column;
@@ -425,7 +419,7 @@ footer .f1 .btn:hover
         flex-direction: column;
        
     }
-  /* ###################################### contact ########################### */
+  /* contact us  */
     .leftside{
         width: 100%;
     }
