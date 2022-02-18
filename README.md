@@ -1,12 +1,10 @@
 # TSF-WEBSITE
 PAYMENT GATEWAY WEBSITE FOR MY INTERNSHIP
 ![Screenshot (149)](https://user-images.githubusercontent.com/90444774/154125796-6bd96d46-3740-4917-88d5-6b3bbd426c28.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/90444774/154697538-340738a9-54cd-4176-9bfc-ad72f05c4fb3.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/90444774/154697601-f6a86c07-f102-4d81-a613-94de5f29a258.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/90444774/154697615-f1a234ae-ac54-466a-83c2-4bce46cc1052.png)
+![Screenshot (153)](https://user-images.githubusercontent.com/90444774/154697629-c474c9bd-1034-4fd9-8cc5-16b8f0ec6010.png)
+![Screenshot (154)](https://user-images.githubusercontent.com/90444774/154697650-49bf5978-bb7c-4c72-92c8-a30c50706838.png)
 
-![Screenshot (148)](https://user-images.githubusercontent.com/90444774/154125442-6955c29f-b902-486a-b69a-7935e5eab789.png)
-
-![Screenshot (146)](https://user-images.githubusercontent.com/90444774/154125487-2ab1ee0b-21ca-4287-97a4-e8859e2b6632.png)
-
-![Screenshot (145)](https://user-images.githubusercontent.com/90444774/154125514-5003aea9-6ab2-4a72-8586-2f529afe59d4.png)
-
-![Screenshot (147)](https://user-images.githubusercontent.com/90444774/154125542-922118c6-d263-4867-bdd9-f2f59b93e159.png)
 
